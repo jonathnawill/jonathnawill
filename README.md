@@ -1,39 +1,97 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+# 👋 Hello, I'm Jonathan William
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Hello+my+name+is+Jonathan)](https://git.io/typing-svg)
+### Full Stack Developer · Software Engineer · Builder
 
+I build web applications, APIs and developer tools with a focus on **clean architecture, scalability and practical solutions**.
 
-
----
-
-#### 📊 Estatísticas do GitHub
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonathnawill&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="jonathan william status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonathnawill&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
-</div>
-
-
-
-
-
-#### 🛠️ Tecnologias e Ferramentas
-
-<div style="display: inline_block">
-  <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img  alt="CSS3" src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white" />
-  <img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img  alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img  alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img  alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img  alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</div>
+My main experience is across **Java, Spring Boot, TypeScript, Angular, React and Node.js**, working with databases, APIs, authentication, infrastructure and modern web applications.
 
 ---
 
-### Contato:
+## 🚀 What I work with
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-william-601467177)
-[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jonathanwilliam11@outlook.com)
+### Backend
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
+* Java
+* Spring Boot
+* Node.js
+* REST APIs
+* PostgreSQL
+* Redis
+
+### Frontend
+
+* Angular
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+
+### Infrastructure & Engineering
+
+* Docker
+* GitHub Actions
+* Linux
+* CI/CD
+* API Design
+* Software Architecture
+
+---
+
+## 🔨 Projects
+
+### 🛠️ Portal Tools
+
+**Creator of [Portal Tools](https://portaltoolsgo.com.br/)** — a collection of free online tools built for developers and everyday tasks.
+
+The platform brings commonly used tools into a single place, including:
+
+* JSON Formatter
+* JWT Decoder & Encoder
+* UUID Generator
+* Hash Generator
+* Base64 Encoder & Decoder
+* Regex Tester
+* HMAC Generator
+* TOTP Generator
+* Cron Parser
+* Subnet Calculator
+* CSS Gradient Generator
+* WCAG Contrast Checker
+
+The goal is simple: **reduce the number of websites developers need to open for everyday tasks.**
+
+🔗 https://portaltoolsgo.com.br/
+
+---
+
+## 🧠 Engineering interests
+
+* Software Architecture
+* Scalable Web Applications
+* API Design
+* Distributed Systems
+* Developer Tools
+* AI-powered Applications
+* Payments & Integrations
+* Developer Experience
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jonathnawill&show_icons=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathnawill&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+
+</div>
+
+---
+
+## 🤝 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jonathan-william-601467177)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)](mailto:jonathanwilliam11@outlook.com)
+[![Portal Tools](https://img.shields.io/badge/Portal_Tools-87CEFA?style=for-the-badge\&logo=google-chrome\&logoColor=black)](https://portaltoolsgo.com.br/)
